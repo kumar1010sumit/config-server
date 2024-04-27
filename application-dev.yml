@@ -1,3 +1,3 @@
 spring:
   application:
-    name: dev-employees
+    name: dev-employees-service
